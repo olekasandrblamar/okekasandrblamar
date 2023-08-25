@@ -54,29 +54,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b>
-<br>
-<div align='left'>
 
-<ul>
-
-
-<li>
-<a href="https://join.skype.com/invite/G66betl5bRD0" target="_blank">
-Skype
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:olekasandr.blamar@gmail.com" target="_blank">
-Email
-</a>
-</li>
-	
-</ul>
-</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
